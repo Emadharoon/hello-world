@@ -1,2 +1,4 @@
 # hello-world
-just another repository 
+just another repository  
+
+hi im emad just want learn about softwaredevelopment
